@@ -1,6 +1,7 @@
 # RAG Application
 
-This project demonstrates an end-to-end implementation of a Retrieval-Augmented Generation (RAG) system using LangChain. The system utilizes document embeddings, a vector store, and a language model to answer queries based on provided documents.
+This project is originally from https://github.com/pixegami/rag-tutorial-v2 which demonstrates an end-to-end implementation of a Retrieval-Augmented Generation (RAG) system using LangChain. The system utilizes document embeddings, a vector store, and a language model to answer queries based on provided documents.
+Later on, Streamlit application will be integrated.
 
 ## Table of Contents
 
