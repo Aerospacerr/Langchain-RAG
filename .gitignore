@@ -131,6 +131,7 @@ env.bak/
 venv.bak/
 *langchain-rag-env
 /langchain-rag-env
+.langchain-rag-env
 
 # Spyder project settings
 .spyderproject
